@@ -4,7 +4,12 @@
 
 3rd year student of computer engineering at the Autonomous University of Barcelona. Specialising in information technologies (IT)
 
-Skills: C / C++ / Python / Bash
+## Skills
+* C
+* C++
+* Python
+* Shell
+
 
 
 
