@@ -10,7 +10,7 @@ I like programming, cybersecurity, artificial intelligence and blockchain.
 * Python
 * Shell
 * Basics of HTML, CSS, PHP & JS
-
+* SQL
 
 
 
