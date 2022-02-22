@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, Pol Espinasa
+#### Programming & cybersecurity enthusiast
+![Programming & cybersecurity enthusiast](https://thumbs.dreamstime.com/b/bandera-horizontal-con-las-manos-que-mecanograf%C3%ADan-en-el-teclado-del-ordenador-port%C3%A1til-los-diversos-dispositivos-electr%C3%B3nicos-125917922.jpg)
 
-<!--
-**polespinasa/polespinasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd year student of computer engineering at the Autonomous University of Barcelona. Specialising in information technologies (IT)
 
-Here are some ideas to get you started:
+Skills: C / C++ / Python / Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/polespinasa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sliv3r__)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15185908)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackster.svg' alt='hackster' height='40'>](https://app.hackthebox.com/profile/388617)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polespinasa)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=polespinasa&show_icons=true&count_private=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=polespinasa)  
+
