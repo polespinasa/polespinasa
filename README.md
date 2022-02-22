@@ -1,6 +1,6 @@
 ### Hi there 👋, Pol Espinasa
 #### Programming & cybersecurity enthusiast
-![Programming & cybersecurity enthusiast](https://thumbs.dreamstime.com/b/bandera-horizontal-con-las-manos-que-mecanograf%C3%ADan-en-el-teclado-del-ordenador-port%C3%A1til-los-diversos-dispositivos-electr%C3%B3nicos-125917922.jpg)
+![Programming & cybersecurity enthusiast](https://github.com/polespinasa/polespinasa/blob/main/banner.jfif)
 
 3rd year student of computer engineering at the Autonomous University of Barcelona. Specialising in information technologies (IT)
 
