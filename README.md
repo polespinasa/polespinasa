@@ -1,4 +1,4 @@
-### Hi there 👋, Pol Espinasa
+### Hi there 👋, I'm Pol Espinasa
 #### Programming & cybersecurity enthusiast
 ![Programming & cybersecurity enthusiast](https://github.com/polespinasa/polespinasa/blob/main/banner.jfif)
 
@@ -13,6 +13,4 @@ Skills: C / C++ / Python / Bash
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polespinasa)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=polespinasa&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=polespinasa)  
 
