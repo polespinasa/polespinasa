@@ -2,7 +2,7 @@
 #### Programming & cybersecurity enthusiast
 ![Programming & cybersecurity enthusiast](https://github.com/polespinasa/polespinasa/blob/main/banner.jfif)
 
-3rd year student of computer engineering at the Autonomous University of Barcelona. Specialising in information technologies (IT).  
+4th year student of computer engineering at the Autonomous University of Barcelona. Specialising in information technologies (IT).  
 I like programming, cybersecurity, artificial intelligence and blockchain.
 
 ## Skills
